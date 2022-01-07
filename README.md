@@ -1,4 +1,8 @@
 "# yann-exam-symfony-doyen" 
+Version Symfony   5.4.2
+PHP 7.4.9
+
+
 
 Bienvenue Florian sur le dépot git de Yann pour son examen symfony.
 
